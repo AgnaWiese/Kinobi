@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kinobi</string>
+
+    <string name="title_movie_list">Movies</string>
+    <string name="title_more">More</string>
+
+    <string name="general_error">Something went wrong…</string>
+
+    <string name="about_kinobi">About Kinobi</string>
+    <string name="about_kinobi_message">by Jane Bilchuk\n© 2024, all rights reserved\n\nVersion 1.0.0</string>
+    <string name="view_source_code">View the source code</string>
+
+    <string name="url_project_github" translatable="false">https://github.com/AgnaWiese/Kinobi</string>
+    <string name="title_about_movie">About movie</string>
+
+    <string name="btn_reviews">See reviews</string>
+    <string name="title_reviews">Reviews</string>
+
+
+
+</resources>

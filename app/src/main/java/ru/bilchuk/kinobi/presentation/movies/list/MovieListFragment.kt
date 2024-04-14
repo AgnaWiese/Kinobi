@@ -78,9 +78,7 @@ class MovieListFragment : Fragment() {
 
         subscribe()
 
-        if (savedInstanceState == null) {
-            viewModel.getMovieListFirstPage()
-        }
+        viewModel.getMovieListFirstPage()
     }
 
     override fun onDestroyView() {
